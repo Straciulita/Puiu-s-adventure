@@ -13,8 +13,9 @@ Dynamic Maze Generation: Each game session presents a unique maze layout created
 🌸Sound Effects: Experience an immersive gameplay environment with engaging sound effects that play when you collect grains, enhancing the overall gaming experience.
 
 😝Restart Option: If you get stuck or wish to start over, a restart button is readily available, allowing you to dive back into the action without hassle.
-------------------------------------------
+
 👾How to Play:
+------------------------
 Use the arrow keys to move your character through the maze.
 Collect grains to increase your score.
 Keep an eye on your score and aim for high scores.
