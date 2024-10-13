@@ -21,6 +21,8 @@ Keep an eye on your score and aim for high scores.
 Enjoy the "vibrant graphics" and engaging sound effects throughout your adventure! (the graphic looks like it was made by a 2-year-old child.. that's because I drew it.. I know I'm not good at drawing shhhhh)
 Embark on your maze journey today and see how many grains you can collect while navigating the challenges of the maze!
 
+YT link:https://youtu.be/uKIMAhDb-XA
+
 Pics from the game:
 ![image](https://github.com/user-attachments/assets/45ec7077-9287-46ec-80b2-b5e101e06a33)
 ![image](https://github.com/user-attachments/assets/47c39c2d-f015-4d43-ae41-1b037d50de91)
